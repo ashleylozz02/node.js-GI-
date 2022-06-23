@@ -1,0 +1,62 @@
+[
+    {
+      "id": "0",
+      "name": "Joel Pimentel",
+      "Salary": 51000,
+      "Department": ""
+    },
+    {
+      "id": "1",
+      "name": "Mariela Guitirez ",
+      "Salary": 51000,
+      "Department": "SpacePerson"
+    },
+    {
+      "id": "03",
+      "name": "Juan David Paez",
+      "Salary": 80000,
+      "Department": "SpacePerson"
+    },
+    {
+      "id": "04",
+      "name": "Carlos Paez",
+      "Salary": 10000,
+      "Department": "SpacePerson"
+    },
+    {
+      "id": "05",
+      "name": "Kayla Lorenzo",
+      "Salary": 20000,
+      "Department": "SpacePerson"
+    },
+    {
+      "id": "06",
+      "name": "Oscar Sanchez",
+      "Salary": 520000,
+      "Department": "SpacePerson"
+    },
+    {
+      "id": "07",
+      "name": "Gisela Placios ",
+      "Salary": 30000,
+      "Department": "SpacePerson"
+    },
+    {
+      "id": "08",
+      "name": "Fransica Cortez",
+      "Salary": 90000,
+      "Department": "SpacePerson"
+    },
+    {
+      "id": "09",
+      "name": "Veronica Cortez",
+      "Salary": 90000,
+      "Department": "SpacePerson"
+    },
+    {
+      "id": "10",
+      "name": "Maynor Espinal ",
+      "Salary": 90000,
+      "Department": "SpacePerson"
+    }
+  ]

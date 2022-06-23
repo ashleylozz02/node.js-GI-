@@ -44,19 +44,19 @@
     {
       "id": "08",
       "name": "Fransica Cortez",
-      "Salary": 90000,
+      "Salary": 57,000,
       "Department": "SpacePerson"
     },
     {
       "id": "09",
       "name": "Veronica Cortez",
-      "Salary": 90000,
+      "Salary": 8,000,
       "Department": "SpacePerson"
     },
     {
       "id": "10",
       "name": "Maynor Espinal ",
-      "Salary": 90000,
+      "Salary": 40000,
       "Department": "SpacePerson"
     }
   ]
